@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+transformers
+torch
+tqdm
+python-docx
+Pillow
