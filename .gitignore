@@ -39,6 +39,8 @@ logs/*.log
 data/**
 !data/
 !data/processed/
+!data/processed/quality_by_year_final_sources/
+!data/processed/quality_by_year_final_sources/*.csv
 !data/processed/american_stories_features_full/
 !data/processed/american_stories_features_full/american_stories_decade_features.csv
 !data/processed/american_stories_features_full/american_stories_yearly_features.csv
